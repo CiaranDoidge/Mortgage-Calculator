@@ -1,2 +1,2 @@
 # Mortgage-Calculator
-Determine time left in a mortgage
+Calculate the time left in a mortgage
