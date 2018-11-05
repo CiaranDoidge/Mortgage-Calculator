@@ -1,2 +1,2 @@
 # Mortgage-Calculator
-Determin timel eft in a mortgage
+Determine time left in a mortgage
